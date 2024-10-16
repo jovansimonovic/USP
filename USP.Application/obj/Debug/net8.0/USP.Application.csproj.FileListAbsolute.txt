@@ -1,0 +1,46 @@
+C:\Users\petar\RiderProjects\USP\USP.Application\bin\Debug\net8.0\USP.Application.deps.json
+C:\Users\petar\RiderProjects\USP\USP.Application\bin\Debug\net8.0\USP.Application.dll
+C:\Users\petar\RiderProjects\USP\USP.Application\bin\Debug\net8.0\USP.Application.pdb
+C:\Users\petar\RiderProjects\USP\USP.Application\obj\Debug\net8.0\USP.Application.csproj.AssemblyReference.cache
+C:\Users\petar\RiderProjects\USP\USP.Application\obj\Debug\net8.0\USP.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\petar\RiderProjects\USP\USP.Application\obj\Debug\net8.0\USP.Application.AssemblyInfoInputs.cache
+C:\Users\petar\RiderProjects\USP\USP.Application\obj\Debug\net8.0\USP.Application.AssemblyInfo.cs
+C:\Users\petar\RiderProjects\USP\USP.Application\obj\Debug\net8.0\USP.Application.csproj.CoreCompileInputs.cache
+C:\Users\petar\RiderProjects\USP\USP.Application\obj\Debug\net8.0\USP.Application.dll
+C:\Users\petar\RiderProjects\USP\USP.Application\obj\Debug\net8.0\refint\USP.Application.dll
+C:\Users\petar\RiderProjects\USP\USP.Application\obj\Debug\net8.0\USP.Application.pdb
+C:\Users\petar\RiderProjects\USP\USP.Application\obj\Debug\net8.0\ref\USP.Application.dll
+C:\Users\petar\RiderProjects\USP\USP.Application\bin\Debug\net8.0\USP.Domain.dll
+C:\Users\petar\RiderProjects\USP\USP.Application\bin\Debug\net8.0\USP.Domain.pdb
+C:\Users\petar\RiderProjects\USP\USP.Application\obj\Debug\net8.0\USP.Appl.E3B6B53D.Up2Date
+C:\Users\petar\OneDrive\Documents\GitHub\usp-2024\USP.Application\bin\Debug\net8.0\USP.Application.deps.json
+C:\Users\petar\OneDrive\Documents\GitHub\usp-2024\USP.Application\bin\Debug\net8.0\USP.Application.dll
+C:\Users\petar\OneDrive\Documents\GitHub\usp-2024\USP.Application\bin\Debug\net8.0\USP.Application.pdb
+C:\Users\petar\OneDrive\Documents\GitHub\usp-2024\USP.Application\bin\Debug\net8.0\USP.Domain.dll
+C:\Users\petar\OneDrive\Documents\GitHub\usp-2024\USP.Application\bin\Debug\net8.0\USP.Domain.pdb
+C:\Users\petar\OneDrive\Documents\GitHub\usp-2024\USP.Application\obj\Debug\net8.0\USP.Application.csproj.AssemblyReference.cache
+C:\Users\petar\OneDrive\Documents\GitHub\usp-2024\USP.Application\obj\Debug\net8.0\USP.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\petar\OneDrive\Documents\GitHub\usp-2024\USP.Application\obj\Debug\net8.0\USP.Application.AssemblyInfoInputs.cache
+C:\Users\petar\OneDrive\Documents\GitHub\usp-2024\USP.Application\obj\Debug\net8.0\USP.Application.AssemblyInfo.cs
+C:\Users\petar\OneDrive\Documents\GitHub\usp-2024\USP.Application\obj\Debug\net8.0\USP.Application.csproj.CoreCompileInputs.cache
+C:\Users\petar\OneDrive\Documents\GitHub\usp-2024\USP.Application\obj\Debug\net8.0\USP.Application.sourcelink.json
+C:\Users\petar\OneDrive\Documents\GitHub\usp-2024\USP.Application\obj\Debug\net8.0\USP.Appl.E3B6B53D.Up2Date
+C:\Users\petar\OneDrive\Documents\GitHub\usp-2024\USP.Application\obj\Debug\net8.0\USP.Application.dll
+C:\Users\petar\OneDrive\Documents\GitHub\usp-2024\USP.Application\obj\Debug\net8.0\refint\USP.Application.dll
+C:\Users\petar\OneDrive\Documents\GitHub\usp-2024\USP.Application\obj\Debug\net8.0\USP.Application.pdb
+C:\Users\petar\OneDrive\Documents\GitHub\usp-2024\USP.Application\obj\Debug\net8.0\ref\USP.Application.dll
+E:\Fakultet\Upravljanje softverskim projektom\USP Kolokvijum 2\USP.Application\bin\Debug\net8.0\USP.Application.deps.json
+E:\Fakultet\Upravljanje softverskim projektom\USP Kolokvijum 2\USP.Application\bin\Debug\net8.0\USP.Application.dll
+E:\Fakultet\Upravljanje softverskim projektom\USP Kolokvijum 2\USP.Application\bin\Debug\net8.0\USP.Application.pdb
+E:\Fakultet\Upravljanje softverskim projektom\USP Kolokvijum 2\USP.Application\bin\Debug\net8.0\USP.Domain.dll
+E:\Fakultet\Upravljanje softverskim projektom\USP Kolokvijum 2\USP.Application\bin\Debug\net8.0\USP.Domain.pdb
+E:\Fakultet\Upravljanje softverskim projektom\USP Kolokvijum 2\USP.Application\obj\Debug\net8.0\USP.Application.csproj.AssemblyReference.cache
+E:\Fakultet\Upravljanje softverskim projektom\USP Kolokvijum 2\USP.Application\obj\Debug\net8.0\USP.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fakultet\Upravljanje softverskim projektom\USP Kolokvijum 2\USP.Application\obj\Debug\net8.0\USP.Application.AssemblyInfoInputs.cache
+E:\Fakultet\Upravljanje softverskim projektom\USP Kolokvijum 2\USP.Application\obj\Debug\net8.0\USP.Application.AssemblyInfo.cs
+E:\Fakultet\Upravljanje softverskim projektom\USP Kolokvijum 2\USP.Application\obj\Debug\net8.0\USP.Application.csproj.CoreCompileInputs.cache
+E:\Fakultet\Upravljanje softverskim projektom\USP Kolokvijum 2\USP.Application\obj\Debug\net8.0\USP.Appl.E3B6B53D.Up2Date
+E:\Fakultet\Upravljanje softverskim projektom\USP Kolokvijum 2\USP.Application\obj\Debug\net8.0\USP.Application.dll
+E:\Fakultet\Upravljanje softverskim projektom\USP Kolokvijum 2\USP.Application\obj\Debug\net8.0\refint\USP.Application.dll
+E:\Fakultet\Upravljanje softverskim projektom\USP Kolokvijum 2\USP.Application\obj\Debug\net8.0\USP.Application.pdb
+E:\Fakultet\Upravljanje softverskim projektom\USP Kolokvijum 2\USP.Application\obj\Debug\net8.0\ref\USP.Application.dll

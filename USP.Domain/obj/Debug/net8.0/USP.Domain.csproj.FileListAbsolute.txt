@@ -1,0 +1,37 @@
+C:\Users\petar\RiderProjects\USP\USP.Domain\bin\Debug\net8.0\USP.Domain.deps.json
+C:\Users\petar\RiderProjects\USP\USP.Domain\bin\Debug\net8.0\USP.Domain.dll
+C:\Users\petar\RiderProjects\USP\USP.Domain\bin\Debug\net8.0\USP.Domain.pdb
+C:\Users\petar\RiderProjects\USP\USP.Domain\obj\Debug\net8.0\USP.Domain.csproj.AssemblyReference.cache
+C:\Users\petar\RiderProjects\USP\USP.Domain\obj\Debug\net8.0\USP.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\petar\RiderProjects\USP\USP.Domain\obj\Debug\net8.0\USP.Domain.AssemblyInfoInputs.cache
+C:\Users\petar\RiderProjects\USP\USP.Domain\obj\Debug\net8.0\USP.Domain.AssemblyInfo.cs
+C:\Users\petar\RiderProjects\USP\USP.Domain\obj\Debug\net8.0\USP.Domain.csproj.CoreCompileInputs.cache
+C:\Users\petar\RiderProjects\USP\USP.Domain\obj\Debug\net8.0\USP.Domain.dll
+C:\Users\petar\RiderProjects\USP\USP.Domain\obj\Debug\net8.0\refint\USP.Domain.dll
+C:\Users\petar\RiderProjects\USP\USP.Domain\obj\Debug\net8.0\USP.Domain.pdb
+C:\Users\petar\RiderProjects\USP\USP.Domain\obj\Debug\net8.0\ref\USP.Domain.dll
+C:\Users\petar\OneDrive\Documents\GitHub\usp-2024\USP.Domain\bin\Debug\net8.0\USP.Domain.deps.json
+C:\Users\petar\OneDrive\Documents\GitHub\usp-2024\USP.Domain\bin\Debug\net8.0\USP.Domain.dll
+C:\Users\petar\OneDrive\Documents\GitHub\usp-2024\USP.Domain\bin\Debug\net8.0\USP.Domain.pdb
+C:\Users\petar\OneDrive\Documents\GitHub\usp-2024\USP.Domain\obj\Debug\net8.0\USP.Domain.csproj.AssemblyReference.cache
+C:\Users\petar\OneDrive\Documents\GitHub\usp-2024\USP.Domain\obj\Debug\net8.0\USP.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\petar\OneDrive\Documents\GitHub\usp-2024\USP.Domain\obj\Debug\net8.0\USP.Domain.AssemblyInfoInputs.cache
+C:\Users\petar\OneDrive\Documents\GitHub\usp-2024\USP.Domain\obj\Debug\net8.0\USP.Domain.AssemblyInfo.cs
+C:\Users\petar\OneDrive\Documents\GitHub\usp-2024\USP.Domain\obj\Debug\net8.0\USP.Domain.csproj.CoreCompileInputs.cache
+C:\Users\petar\OneDrive\Documents\GitHub\usp-2024\USP.Domain\obj\Debug\net8.0\USP.Domain.sourcelink.json
+C:\Users\petar\OneDrive\Documents\GitHub\usp-2024\USP.Domain\obj\Debug\net8.0\USP.Domain.dll
+C:\Users\petar\OneDrive\Documents\GitHub\usp-2024\USP.Domain\obj\Debug\net8.0\refint\USP.Domain.dll
+C:\Users\petar\OneDrive\Documents\GitHub\usp-2024\USP.Domain\obj\Debug\net8.0\USP.Domain.pdb
+C:\Users\petar\OneDrive\Documents\GitHub\usp-2024\USP.Domain\obj\Debug\net8.0\ref\USP.Domain.dll
+E:\Fakultet\Upravljanje softverskim projektom\USP Kolokvijum 2\USP.Domain\bin\Debug\net8.0\USP.Domain.deps.json
+E:\Fakultet\Upravljanje softverskim projektom\USP Kolokvijum 2\USP.Domain\bin\Debug\net8.0\USP.Domain.dll
+E:\Fakultet\Upravljanje softverskim projektom\USP Kolokvijum 2\USP.Domain\bin\Debug\net8.0\USP.Domain.pdb
+E:\Fakultet\Upravljanje softverskim projektom\USP Kolokvijum 2\USP.Domain\obj\Debug\net8.0\USP.Domain.csproj.AssemblyReference.cache
+E:\Fakultet\Upravljanje softverskim projektom\USP Kolokvijum 2\USP.Domain\obj\Debug\net8.0\USP.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fakultet\Upravljanje softverskim projektom\USP Kolokvijum 2\USP.Domain\obj\Debug\net8.0\USP.Domain.AssemblyInfoInputs.cache
+E:\Fakultet\Upravljanje softverskim projektom\USP Kolokvijum 2\USP.Domain\obj\Debug\net8.0\USP.Domain.AssemblyInfo.cs
+E:\Fakultet\Upravljanje softverskim projektom\USP Kolokvijum 2\USP.Domain\obj\Debug\net8.0\USP.Domain.csproj.CoreCompileInputs.cache
+E:\Fakultet\Upravljanje softverskim projektom\USP Kolokvijum 2\USP.Domain\obj\Debug\net8.0\USP.Domain.dll
+E:\Fakultet\Upravljanje softverskim projektom\USP Kolokvijum 2\USP.Domain\obj\Debug\net8.0\refint\USP.Domain.dll
+E:\Fakultet\Upravljanje softverskim projektom\USP Kolokvijum 2\USP.Domain\obj\Debug\net8.0\USP.Domain.pdb
+E:\Fakultet\Upravljanje softverskim projektom\USP Kolokvijum 2\USP.Domain\obj\Debug\net8.0\ref\USP.Domain.dll

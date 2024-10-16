@@ -1,0 +1,8 @@
+{
+  "USP.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "E:\\Fakultet\\Upravljanje softverskim projektom\\USP Kolokvijum 2\\USP.API",
+  "USP.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "E:\\Fakultet\\Upravljanje softverskim projektom\\USP Kolokvijum 2\\USP.Application",
+  "USP.BaseTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "E:\\Fakultet\\Upravljanje softverskim projektom\\USP Kolokvijum 2\\USP.BaseTests",
+  "USP.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "E:\\Fakultet\\Upravljanje softverskim projektom\\USP Kolokvijum 2\\USP.Domain",
+  "USP.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "E:\\Fakultet\\Upravljanje softverskim projektom\\USP Kolokvijum 2\\USP.Infrastructure",
+  "USP.Worker, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "E:\\Fakultet\\Upravljanje softverskim projektom\\USP Kolokvijum 2\\USP.Worker"
+}
